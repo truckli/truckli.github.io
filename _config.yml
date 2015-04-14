@@ -1,7 +1,8 @@
----
-title: This is my title
-layout: post
----
-
-    Here is my page.
-
+destination: ./_site
+server: true
+auto:        true
+lsi:         false
+server_port: 4000
+pygments:    true
+markdown:    redcloth
+permalink:   date
