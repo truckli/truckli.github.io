@@ -1,8 +1,16 @@
-destination: ./_site
-server: true
-auto:        true
-lsi:         false
-server_port: 4000
-pygments:    true
-markdown:    redcloth
-permalink:   date
+markdown: rdiscount
+permalink: /:title/
+url: http://truckli.gitcafe.io
+name: Truckli's Blog
+author: Truckli
+qq: 123018
+email: truckli@126.com
+duoshuo: None
+beian: None
+cnzz: 119959
+weibo: None
+github: truckli 
+pygments: true
+safe: true
+paginate: 20
+about: "这里是 truckli的个人博客（从Yonsm.github.com Fork而来）, 正在建设中……"

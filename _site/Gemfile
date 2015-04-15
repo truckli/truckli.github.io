@@ -1,3 +1,6 @@
 source 'https://ruby.taobao.org'
 gem 'gemoji'
-gem 'jekyll'
+gem 'rdiscount'
+gem "jekyll"
+gem "RedCloth"
+gem "pygmentize"

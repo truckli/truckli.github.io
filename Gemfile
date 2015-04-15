@@ -1,7 +1,6 @@
-# A sample Gemfile
-source "http://ruby.taobao.org"
-
-# gem "rails"
+source 'https://ruby.taobao.org'
+gem 'gemoji'
+gem 'rdiscount'
 gem "jekyll"
 gem "RedCloth"
 gem "pygmentize"
