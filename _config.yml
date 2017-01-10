@@ -1,4 +1,3 @@
-markdown: rdiscount
 permalink: /:title/
 url: http://truckli.github.io
 name: Truckli's Blog
@@ -13,4 +12,4 @@ github: truckli
 pygments: true
 safe: true
 paginate: 20
-about: "这里是 truckli的个人博客（从Yonsm.github.com Fork而来）, 正在建设中……"
+about: "这里是 truckli的个人博客（源码从Yonsm.github.com Fork而来）, 正在建设中……"
