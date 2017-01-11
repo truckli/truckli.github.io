@@ -1,8 +1,0 @@
----
-layout: post
-title: 免费的持续集成测试服务
-category: other
----
-
-
-A distributed build system for the open source community.
