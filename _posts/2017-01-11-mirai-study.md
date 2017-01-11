@@ -6,4 +6,4 @@ categories: 调研
 tags: mirai botnet
 ---
 
-Mirai
+Mirai survey
