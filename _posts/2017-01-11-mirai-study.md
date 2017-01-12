@@ -10,3 +10,7 @@ Mirai survey
 
 
 ![](/media/images/deutsche-telecom-mirai-sweep.jpg)
+
+![](/media/download/mirai-survey.docx)
+
+[Mirai调研报告](/media/download/mirai-survey.docx)
