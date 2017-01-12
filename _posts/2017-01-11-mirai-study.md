@@ -9,8 +9,6 @@ tags: mirai botnet
 Mirai survey
 
 
-![](/media/images/deutsche-telecom-mirai-sweep.jpg)
 
-![](/media/download/mirai-survey.docx)
 
-[Mirai调研报告](/media/download/mirai-survey.docx)
+[Mirai调研报告下载](/media/download/mirai-survey.docx)
