@@ -1,14 +1,13 @@
 ---
 date: 2017-01-11 17:00:31+00:00
 layout: post
-title: Mirai研究
-categories: 调研
+title: A Mirai Survey
+categories: survey
 tags: mirai botnet
 ---
 
-Mirai survey
 
 
+Notice: it is writen in Chinese.
 
-
-[Mirai调研报告下载](/media/download/mirai-survey.docx)
+[Download](/media/download/mirai-survey.docx)
